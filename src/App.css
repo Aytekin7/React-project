@@ -1,0 +1,25 @@
+.form{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+    
+}
+.label{
+    font-size: 20px;
+   
+}
+.input{
+    width: 200px;
+    height: 40px;
+}
+.button{
+    height: 50px;
+    width: 80px;
+    background-color: red;
+}
+.login{
+    display: flex;
+    justify-content: center;
+}
